@@ -1,0 +1,7 @@
+/env
+/dist
+/build
+*.py[co]
+__pycache__
+*.egg-info
+*.swp

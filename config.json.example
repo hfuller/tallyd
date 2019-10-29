@@ -1,0 +1,8 @@
+{
+    "cameras": 8,
+    "tally": ["live", "preview", "foo", "bar"],
+    "ports": {
+        "control": 5762,
+        "client": 5763
+    }
+}
